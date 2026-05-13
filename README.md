@@ -44,9 +44,7 @@ In short : it's a simple network tool with a graphical window, that does somewha
 
 `cd scanny-pyt`
 
-`pip install scapy`
-
-`pip freeze > requirements.txt`
+`pip install -r requirements.txt`
 
 ## Run
 
