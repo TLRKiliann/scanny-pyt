@@ -49,3 +49,5 @@ In short : it's a simple network tool with a graphical window, that does somewha
 ## Run
 
 `sudo python3 main.py`
+
+Enjoy ! :koala:
